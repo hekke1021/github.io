@@ -1,0 +1,28 @@
+body {
+	font-size: 1.2em;
+	font-family: sans-serif;
+	width: 80%;
+	margin: 0 auto;
+	background-color: white;
+}
+h1 {
+	background-color: crimson;
+	color: white;
+
+}
+a {
+	color: red;
+	font-size: 30px;
+}
+b {
+	color: green;
+}
+footer {
+	font-size: 1.2em;
+	font-family: sans-serif;
+	width: 80%;
+	margin: 0 auto;
+}
+c {
+	color: rgb(111,25,211);
+}
